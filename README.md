@@ -118,6 +118,7 @@ Any contribution is welcome!
 ## Asset managers
 
 * [Avalon](https://getavalon.github.io)
+* [Anima](https://github.com/eoyilmaz/anima)
 * [Damas](http://damas-software.org/)
 * [Gaffer](https://github.com/GafferHQ/gaffer)
 * [Kabaret](https://www.kabaretstudio.com/)
